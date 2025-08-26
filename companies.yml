@@ -1,0 +1,23 @@
+companies:
+  # Greenhouse companies (these definitely work)
+  - name: "Stripe"
+    ats: greenhouse
+    slug: "stripe"
+  - name: "Netflix"
+    ats: greenhouse
+    slug: "netflix"
+  - name: "Hashicorp"
+    ats: greenhouse
+    slug: "hashicorp"
+  
+  # Lever companies (these definitely work)
+  - name: "Plaid"
+    ats: lever
+    slug: "plaid"
+  - name: "Notion"
+    ats: lever
+    slug: "notion"
+  - name: "Robinhood"
+    ats: lever
+    slug: "robinhood"
+
